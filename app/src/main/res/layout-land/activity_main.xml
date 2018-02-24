@@ -66,6 +66,7 @@
         <android.support.v7.widget.CardView
             style="@style/cadru"
             android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/no_margin"
             android:layout_marginBottom="@dimen/default_margin">
 
             <LinearLayout
